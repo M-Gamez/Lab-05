@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://preview.redd.it/s1g8vioo5rvb1.gif?width=1800&format=mp4&s=4cc308fbb425b0bfed770db2026b52e93ee234f7"
+  Author's home: "https://imgur.com/YEFdZaX"
 
 # --- Logo --- #
 
@@ -96,16 +96,16 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#8D1D40"
-navbar-text-col: "#FFFFFF"
-navbar-border-col: "#8D1D40"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#8D1D40"
-hover-col: "#FCC628"
-footer-col: "#FFFFFF"
-footer-text-col: "#404040"
-footer-link-col: "#8D1D40"
+navbar-col: "#CD9DAB"
+navbar-text-col: "#EEEEE8"
+navbar-border-col: "#CD9DAB"
+page-col: "#EEEEE8"
+text-col: "#4c5047"
+link-col: "#AA4754"
+hover-col: "#FADD92"
+footer-col: "#EEEEE8"
+footer-text-col: "#4c5047"
+footer-link-col: "#AA4754"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -115,7 +115,7 @@ footer-link-col: "#8D1D40"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-mobile-theme-col: "#8D1D40"
+#mobile-theme-col: "#8D1D40"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
