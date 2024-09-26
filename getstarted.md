@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Get Started
 ---
 # Build your website in 3 steps
