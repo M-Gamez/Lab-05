@@ -53,19 +53,3 @@ If you named your project correctly and made an edit to the config file, your we
 The instructions above explain how to use Beautiful Jekyll in the easiest way: by forking on GitHub. There are more [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard) that include either using GitHub Pages with remote themes, or using Ruby gems. They provide you with more control, but are only intended for advanced users.
 
 > Note: Beautiful Jekyll was primarily designed to be used as a GitHub theme, so you will not get any support if you use this theme via Ruby gems. 
-
-<style>
-<!-- only <h3> headers between <div class=gs-section-01> tags -->
-.gs-section-01 h3 { 
-     color: #AA4754 }
-
-.gs-section-01 p {
-     font-size: 1.5em;
-}
-
- <!-- only <h3> headers between <div class=gs-section-02> tags -->
-
- #gs-section-02 h3 { 
-   color: #f2edde
-}
-</style>
