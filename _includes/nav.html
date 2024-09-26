@@ -47,12 +47,11 @@
     {% endfor %}
   {% endif %}
 
-  {% if site.avatar and page.show-avatar != false %}
+ {% if site.avatar and page.show-avatar != false %}
     <div class="avatar-container">
       <div class="avatar-img-border">
         <a href="{{ '' | absolute_url }}">
-         
-          <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/RJDLyWIHNMcFsdGR0q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/ASUofficial-teacher-teachers-sun-devils-RJDLyWIHNMcFsdGR0q">via GIPHY</a></p>
+          <img alt="Navigation bar avatar" class="avatar-img" src="{{ site.avatar | relative_url }}" />
         </a>
       </div>
     </div>
