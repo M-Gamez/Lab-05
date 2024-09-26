@@ -12,8 +12,8 @@ title: Lab 05
 author: Melissa Phillips
 
 # Define site URL
-url: https://m-gamez.github.io/Lab-05/
-
+url: https://m-gamez.github.io
+baseurl: /Lab-05
 # --- List of links in the navigation bar --- #
 
 navbar-links:
