@@ -1,7 +1,3 @@
----
-layout: default
-title: Get Started
----
 # Build your website in 3 steps
 
 There are a few different ways to build a website using Beautiful Jekyll, and this document will go through the simplest one: using a fork on GitHub. For most people (including myself!), this easy method is the recommended one.
@@ -16,13 +12,9 @@ Scroll down to see the steps involved, but here is a 30-second video just as a r
 
 ![Installation steps](https://beautifuljekyll.com/assets/img/install-steps.gif)
 
-<div class="gs-section-01" markdown="1">
-
 ### 1. Fork this project
 
 Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.
-
-</div>
 
 ### 2. Rename the repository to `YOURUSERNAME.github.io`
 
