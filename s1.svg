@@ -1,12 +1,13 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none"  xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div class="gs-section-01" xmlns="http://www.w3.org/1999/xhtml" >
             <style>
                .gs-section-01 h3 { 
-         color: #9c3848 }
+                    color: #9c3848 
+                }
               
               .gs-section-01 p {
-                   font-size: 30px;
+                   font-size: 18px;
               }
 
             @keyframes mymove {
@@ -19,9 +20,9 @@
             }
             </style>
 
-### 1. Fork this project
+<h3> 1. Fork this project </h3>
 
-Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.
+<p>Click on the <strong><em>Fork</em></strong> button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the  <strong><em>Create fork</em></strong> button on the next page yet.</p>
 
       </div>
     </foreignObject>
