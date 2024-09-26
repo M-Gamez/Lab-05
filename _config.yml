@@ -44,14 +44,14 @@ social-network-links:
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  snapchat: yourname
+#  instagram: yourname
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +1
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -100,11 +100,11 @@ navbar-col: "#FADD92"
 navbar-text-col: "#4c5047"
 navbar-border-col: "#FADD92"
 page-col: "#EEEEE8"
-text-col: "#4c5047"
+text-col: "#4C5047"
 link-col: "#AA4754"
 hover-col: "#CD9DAB"
 footer-col: "#EEEEE8"
-footer-text-col: "#4c5047"
+footer-text-col: "#4C5047"
 footer-link-col: "#AA4754"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
