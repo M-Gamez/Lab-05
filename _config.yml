@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Lab 05
 
 # Your name to show in the footer
 author: Melissa Phillips
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://preview.redd.it/s1g8vioo5rvb1.gif?width=1800&format=mp4&s=4cc308fbb425b0bfed770db2026b52e93ee234f7
 
 # --- Logo --- #
 
