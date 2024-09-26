@@ -1,3 +1,7 @@
+---
+layout: page
+title: Get Started
+---
 # Build your website in 3 steps
 
 There are a few different ways to build a website using Beautiful Jekyll, and this document will go through the simplest one: using a fork on GitHub. For most people (including myself!), this easy method is the recommended one.
