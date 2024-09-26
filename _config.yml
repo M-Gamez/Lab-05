@@ -31,7 +31,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "assets/img/sun-loop.gif"
+title-img: "assets/img/mp.png"
 
 
 # --- Footer social media links --- #
@@ -41,7 +41,7 @@ title-img: "assets/img/sun-loop.gif"
 social-network-links:
   email: "mphill75@asu.edu"
   github: M-Gamez
-  youtube: c/daattali
+  youtube: ""
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: yourname
@@ -96,16 +96,16 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F9CC2D"
+navbar-col: "#CD9DAB"
 navbar-text-col: "#4c5047"
-navbar-border-col: "#FADD92"
+navbar-border-col: "#CD9DAB"
 page-col: "#EEEEE8"
 text-col: "#4C5047"
-link-col: "#AA4754"
-hover-col: "#CD9DAB"
+link-col: "#FADD92"
+hover-col: "#AA4754’"
 footer-col: "#EEEEE8"
 footer-text-col: "#4C5047"
-footer-link-col: "#AA4754"
+footer-link-col: "#FADD92"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
