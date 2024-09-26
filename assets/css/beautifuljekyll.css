@@ -1093,4 +1093,16 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
+
+.gs-section-01 h3 { 
+     color: #AA4754; }
+
+.gs-section-01 p {
+     font-size: 1.5em;
+}
+
+ .gs-section-02 h3 { 
+   color: #f2edde;
+}
+
 }
